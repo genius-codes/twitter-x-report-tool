@@ -55,5 +55,6 @@ twitter-x report tool
 twitter-x ban tool
 twitter-x report tool
 twitter-x bulk reports
-x bab report tool
+x bulk report tool
+how to report an x twitter account
 
