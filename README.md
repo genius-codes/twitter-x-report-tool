@@ -6,7 +6,7 @@ FOR BULK AUTO REPORT TOOL OR DEALS
 
 MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
-![2023-09-26 08 22 50](https://github.com/genius-codes/twitter-x-report-tool/assets/125784563/b42273d5-08de-48ea-8865-c8ed31f39e3e)
+![xlogo](https://github.com/genius-codes/twitter-x-report-tool/assets/125784563/a4279e27-d546-4cd4-ab1a-455fc8463d32)
 
 
 THIS IS A FREE PYTHON SCRIPT FOR
